@@ -1,5 +1,5 @@
 ﻿<?php
-//phpの環境を表示する関数。
-phpenfo();
-//編集１
+phpinfo();
+//phpenfo()→phpinfo()
+echo 10*10*10;
 
